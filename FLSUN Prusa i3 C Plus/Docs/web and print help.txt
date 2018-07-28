@@ -1,0 +1,30 @@
+http://slic3r.org/
+http://manual.slic3r.org/
+http://www.thingiverse.com
+http://www.repetier.com/
+http://www.reprap.org
+
+
+
+PLA:190буб╓ 230бу
+HOT BED:0буб╓ 60бу
+
+ABS:240буб╓ 260бу
+HOT BED:60буб╓ 80бу
+
+I3г║
+HEATER_MAXTEMP :280бу
+BED_MAXTEMP    : 90бу 
+
+
+Hot bed is aided become warped edge problem. 
+But not absolute become warped edge. 
+In the use of the hot bed to Caution. 
+Heated to 50 degrees above is very hot.
+
+
+
+http://slic3r.org/
+http://www.thingiverse.com
+http://www.repetier.com/
+http://www.reprap.org
