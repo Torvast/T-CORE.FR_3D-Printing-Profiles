@@ -14,8 +14,8 @@ Within each printer you will find slicing profiles for Simplify3D in first time 
 Finally, you will find profiles for different qualities and filaments.
 
 **Support the project <3 :**<br>
-As you might imagine, working on this project takes a lot of time and effort. The maintenance, bug fixing, testing, release preparations, reviews of filaments, updates and such alone is already a huge undertaking, and that even leaves out other coding unrelated tasks like writing documentation, server administration etc.
-If this sounds like a full time job, that's because it is (almost). My full time work on this project is 100% crowd funded by people just like you!
+As you might imagine, working on this project takes a lot of time and effort. The maintenance, bug fixing, testing, release preparations, reviews of filaments, updates and such alone is already a huge undertaking, and that even leaves out other coding unrelated tasks like writing documentation, server administration etc.<br>
+If this sounds like a full time job, that's because it is (almost). My full time work on this project is 100% crowd funded by people just like you!<br>
 With a company and open to a sponsorship? Get in touch with me at michael@t-core.fr ! 
 
 **You can support my work directly either regularly or through one time contributions, you can do it at :**<br>
