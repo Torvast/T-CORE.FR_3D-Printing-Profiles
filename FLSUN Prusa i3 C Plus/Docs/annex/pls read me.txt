@@ -1,0 +1,4 @@
+Hidear friend 
+if your order includes dual extruders parts and Wifi parts ,you can refer to the corresponding manual to use the printer
+dual-autolevel:https://www.dropbox.com/s/sieepnehn0q5xv9/dual-autolevel.zip?dl=0 
+Best regards
