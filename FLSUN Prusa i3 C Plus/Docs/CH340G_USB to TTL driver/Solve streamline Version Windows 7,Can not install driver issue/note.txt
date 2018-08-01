@@ -1,0 +1,7 @@
+Solve streamline Version Windows 7,Can not install driver issue,do as follow:
+
+1, Open this file,copy "serenum.sys" to C:\Windows\System32\drivers
+
+2, Uninstall the original driver,restart the PC
+
+3, install the driver agian
