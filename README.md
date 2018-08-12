@@ -6,7 +6,7 @@ Printing profiles for all my 3dprinters
 Profiles are divided according to their printer. Available printers are:
 * BQ Witbox 2 with cold bed
 * BQ Hephestos 2 with heated bed
-* FLSUN Prusa i3 C Plus with heated bed
+* FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon)
 
 
 Within each printer you will find slicing profiles for Simplify3D in first time (Octoprint & Cura coming in second time).
