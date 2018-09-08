@@ -25,3 +25,6 @@ If this sounds like a full time job, that's because it is (almost). My full time
 [My Amazon Wishlist (FR)](https://amzn.to/2GFwbD3).
 
 <a href="https://www.buymeacoffee.com/torvast" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+
+It's a simple share of all 3dprinters profiles i use all days. Feedbacks are welcome 👍.
+**More are coming in future releases (faster if you help/support my work by cover there costs & stuffs)**
