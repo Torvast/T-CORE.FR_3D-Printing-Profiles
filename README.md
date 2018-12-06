@@ -22,6 +22,7 @@ If this sounds like a full time job, that's because it is (almost). My full time
 [My Tipeee](https://www.tipeee.com/torvast)<br>
 [My Liberapay](https://liberapay.com/Torvast/donate)<br>
 [My Paypal.me](https://www.paypal.me/Torvast) (or at my paypal email : michael@t-core.fr)<br>
+[My Amazon Wishlist (US)](https://amzn.to/2roSVwZ)<br>
 [My Amazon Wishlist (FR)](https://amzn.to/2GFwbD3)<br>
 <a href="https://www.buymeacoffee.com/torvast" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
