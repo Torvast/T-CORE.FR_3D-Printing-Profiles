@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="BQ Witbox 2 Innofil3D PLA" version="2019-04-09 15:05:37" app="S3D-Software 4.1.2">
+<profile name="BQ Witbox 2 Innofil3D PLA" version="2019-04-15 18:29:52" app="S3D-Software 4.1.2">
   <baseProfile>bq Witbox 2</baseProfile>
   <printMaterial>PLA Innofil3D</printMaterial>
   <printQuality>200 microns</printQuality>
@@ -146,7 +146,7 @@
   <celebration>0</celebration>
   <celebrationSong>Random Song</celebrationSong>
   <postProcessing></postProcessing>
-  <defaultSpeed>2502</defaultSpeed>
+  <defaultSpeed>2400</defaultSpeed>
   <outlineUnderspeed>0.5</outlineUnderspeed>
   <solidInfillUnderspeed>0.8</solidInfillUnderspeed>
   <supportUnderspeed>0.8</supportUnderspeed>
