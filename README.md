@@ -9,7 +9,7 @@ Profiles are divided according to their printer. Available printers are:
 * FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon)
 
 
-Within each printer you will find slicing profiles for Simplify3D in first time (Octoprint & Cura coming in second time).
+Within each printer you will find slicing profiles **for Simplify3D in first time** (Octoprint & Cura coming in second time, and PrusaSlicer if i own a Prusa mk2/3 <3 ).
 
 Finally, you will find profiles for different qualities and filaments.
 
