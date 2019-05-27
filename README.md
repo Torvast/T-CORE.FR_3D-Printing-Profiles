@@ -24,6 +24,7 @@ If this sounds like a full time job, that's because it is (almost). My full time
 [My Paypal.me](https://www.paypal.me/Torvast) (or at my paypal email : michael@t-core.fr)<br>
 [My Amazon Wishlist (US)](https://amzn.to/2roSVwZ)<br>
 [My Amazon Wishlist (FR)](https://amzn.to/2GFwbD3)<br>
+[My 3DJAKE Wishlist (FR)](https://www.3djake.fr/liste-de-souhaits/4JH274LUJNSQP)<br>
 <a href="https://www.buymeacoffee.com/torvast" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/black_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
 <a href="https://www.blockchain.com/btc/address/1PjvrjvuQf7AyAJk3mGotECFrUB9KRd6yc" target="_blank"><img src="https://support-me.t-core.fr/BTC.png" alt="Donate with Bitcoin" ></a><br> (or 1PjvrjvuQf7AyAJk3mGotECFrUB9KRd6yc ).
