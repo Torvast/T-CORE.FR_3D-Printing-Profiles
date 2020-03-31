@@ -1,6 +1,6 @@
 # T-CORE.FR_3D-Printing-Profiles
 Here are the profiles I use with Simplify3D and now Ultimaker Cura. **Use at your own risk.**
-They are not perfect but gives you a great starting point for using Simplify3D & Ultimaker Cura with a BQ Witbox 2, BQ Hephestos 2 and (soon) FLSUN Prusa i3 C Plus 3D Printers.
+They are not perfect but gives you a great starting point for using Simplify3D & Ultimaker Cura with a BQ Witbox 2, BQ Hephestos 2 and (soon) FLSUN Prusa i3 C Plus & FLSUN QQ-S 3D Printers.
 
 **NOTE:** *These profiles are still a work in progress*
 
