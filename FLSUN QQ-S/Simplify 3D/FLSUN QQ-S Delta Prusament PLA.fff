@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="FLSUN QQ-S Delta Prusament PLA" version="2020-04-28 16:11:12" app="S3D-Software 4.1.2">
+<profile name="FLSUN QQ-S Delta Prusament PLA" version="2020-04-28 22:43:47" app="S3D-Software 4.1.2">
   <baseProfile>FLSUN QQ Delta</baseProfile>
   <printMaterial>Prusament PLA</printMaterial>
   <printQuality>200 microns</printQuality>
