@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="FLSUN QQ-S Delta Prusament PLA" version="2020-04-28 22:43:47" app="S3D-Software 4.1.2">
+<profile name="FLSUN QQ-S Delta Prusament PLA" version="2020-04-29 17:06:21" app="S3D-Software 4.1.2">
   <baseProfile>FLSUN QQ Delta</baseProfile>
   <printMaterial>Prusament PLA</printMaterial>
   <printQuality>200 microns</printQuality>
@@ -90,13 +90,13 @@
     <temperatureNumber>0</temperatureNumber>
     <isHeatedBed>0</isHeatedBed>
     <stabilizeAtStartup>1</stabilizeAtStartup>
-    <setpoint layer="1" temperature="210"/>
+    <setpoint layer="1" temperature="215"/>
   </temperatureController>
   <temperatureController name="Heated Bed">
     <temperatureNumber>0</temperatureNumber>
     <isHeatedBed>1</isHeatedBed>
     <stabilizeAtStartup>1</stabilizeAtStartup>
-    <setpoint layer="1" temperature="50"/>
+    <setpoint layer="1" temperature="60"/>
   </temperatureController>
   <fanSpeed>
     <setpoint layer="1" speed="0"/>
@@ -165,8 +165,8 @@
   <fixedBridgingAngle>0</fixedBridgingAngle>
   <applyBridgingToPerimeters>0</applyBridgingToPerimeters>
   <filamentDiameters>1.75|1.75|1.75|1.75|1.75|1.75</filamentDiameters>
-  <filamentPricesPerKg>46|46|46|46|46|46</filamentPricesPerKg>
-  <filamentDensities>1.25|1.25|1.25|1.25|1.25|1.25</filamentDensities>
+  <filamentPricesPerKg>24.99|46|46|46|46|46</filamentPricesPerKg>
+  <filamentDensities>1.24|1.25|1.25|1.25|1.25|1.25</filamentDensities>
   <useMinPrintHeight>0</useMinPrintHeight>
   <minPrintHeight>0</minPrintHeight>
   <useMaxPrintHeight>0</useMaxPrintHeight>
@@ -219,8 +219,8 @@
     <supportInfillPercentage>25</supportInfillPercentage>
   </autoConfigureQuality>
   <autoConfigureMaterial name="Prusament PLA">
-    <globalExtruderTemperature>210</globalExtruderTemperature>
-    <globalBedTemperature>50</globalBedTemperature>
+    <globalExtruderTemperature>215</globalExtruderTemperature>
+    <globalBedTemperature>60</globalBedTemperature>
     <globalExtrusionMultiplier>1.08</globalExtrusionMultiplier>
     <fanSpeed>
       <setpoint layer="1" speed="0"/>
