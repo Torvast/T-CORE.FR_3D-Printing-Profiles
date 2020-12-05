@@ -1,6 +1,6 @@
 # T-CORE.FR_3D-Printing-Profiles
 Here are the profiles I use with Simplify3D and now Ultimaker Cura. **Use at your own risk.**
-They are not perfect but gives you a great starting point for using Simplify3D & Ultimaker Cura with a BQ Witbox 2, BQ Hephestos 2 and (soon) FLSUN Prusa i3 C Plus & FLSUN QQ-S 3D Printers.
+They are not perfect but gives you a great starting point for using Simplify3D, Ultimaker Cura & PrusaSlicer with a BQ Witbox 2, BQ Hephestos 2, FLSUN QQ-S and (soon) FLSUN Prusa i3 C Plus 3D Printers.
 
 **NOTE:** *These profiles are still a work in progress*
 
@@ -11,7 +11,7 @@ Profiles are divided according to their printer. Available printers are:
 * FLSUN QQ-S with heated bed
 
 
-Within each printer you will find slicing profiles **for Simplify3D & Ultimaker Cura in first time** (Octoprint in second time, and PrusaSlicer if i own a Prusa mk2/3 <3 ).
+Within each printer you will find slicing profiles **for Simplify3D & Ultimaker Cura in first time** (Octoprint in second time, and PrusaSlicer if i own a Prusa mk3/4 <3 ).
 
 Finally, you will find profiles for different qualities and filaments.
 
