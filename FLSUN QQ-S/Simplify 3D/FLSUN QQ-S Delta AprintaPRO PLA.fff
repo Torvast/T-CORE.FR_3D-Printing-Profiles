@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="FLSUN QQ-S Delta AprintaPRO PLA" version="2020-11-19 00:23:00" app="S3D-Software 4.1.2">
+<profile name="FLSUN QQ-S Delta AprintaPRO PLA" version="2021-02-01 17:19:19" app="S3D-Software 4.1.2">
   <baseProfile>FLSUN QQ Delta</baseProfile>
   <printMaterial>PLA PrintaMent</printMaterial>
   <printQuality>Medium</printQuality>
@@ -70,7 +70,7 @@
   <internalInfillAngles>45,-45</internalInfillAngles>
   <overlapInternalInfillAngles>1</overlapInternalInfillAngles>
   <externalInfillAngles>45,-45</externalInfillAngles>
-  <generateSupport>1</generateSupport>
+  <generateSupport>0</generateSupport>
   <supportExtruder>0</supportExtruder>
   <supportInfillPercentage>30</supportInfillPercentage>
   <supportExtraInflation>0</supportExtraInflation>
@@ -96,7 +96,7 @@
     <temperatureNumber>0</temperatureNumber>
     <isHeatedBed>1</isHeatedBed>
     <stabilizeAtStartup>1</stabilizeAtStartup>
-    <setpoint layer="1" temperature="45"/>
+    <setpoint layer="1" temperature="50"/>
   </temperatureController>
   <fanSpeed>
     <setpoint layer="1" speed="0"/>
@@ -220,7 +220,7 @@
   </autoConfigureQuality>
   <autoConfigureMaterial name="PLA PrintaMent">
     <globalExtruderTemperature>210</globalExtruderTemperature>
-    <globalBedTemperature>45</globalBedTemperature>
+    <globalBedTemperature>50</globalBedTemperature>
     <globalExtrusionMultiplier>1.08</globalExtrusionMultiplier>
     <fanSpeed>
       <setpoint layer="1" speed="0"/>

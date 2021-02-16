@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<profile name="FLSUN QQ-S Delta SUNLU PLA+" version="2020-12-17 09:43:08" app="S3D-Software 4.1.2">
+<profile name="FLSUN QQ-S Delta SUNLU PLA+" version="2020-12-20 18:37:15" app="S3D-Software 4.1.2">
   <baseProfile>FLSUN QQ Delta</baseProfile>
   <printMaterial>SUNLU PLA+</printMaterial>
   <printQuality>Medium</printQuality>
