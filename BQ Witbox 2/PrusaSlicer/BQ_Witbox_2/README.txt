@@ -1,1 +1,0 @@
-BQ Witbox 2 Bed by Monle on Thingiverse: https://www.thingiverse.com/thing:4256023
