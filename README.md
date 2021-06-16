@@ -5,10 +5,10 @@ They are not perfect but gives you a great starting point for using Simplify3D, 
 **NOTE:** *These profiles are still a work in progress*
 
 Profiles are divided according to their printer. Available printers are:
-* BQ Witbox 2 with cold bed
-* BQ Hephestos 2 with heated bed
+* BQ Witbox 2 with cold bed (disontinued for the moment : [BQ is DEAD](https://www.bq.com/))
+* BQ Hephestos 2 with heated bed (disontinued for the moment : [BQ is DEAD](https://www.bq.com/))
 * FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon)
-* FLSUN QQ-S PRO with heated bed
+* FLSUN QQ-S PRO with heated bed & the [Foxies CSTL Marlin version](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases/)
 
 
 Within each printer you will find slicing profiles **for Simplify3D & PrusaSlicer in first time** (Octoprint in second time with Ultimaker Cura).
