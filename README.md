@@ -1,6 +1,6 @@
 # T-CORE.FR_3D-Printing-Profiles
 Here are the tailored profiles I use with Simplify3D and now PrusaSlicer.<br> 🚨**Use at your own risk**🚨<br><br>
-They're not flawless, but they'll give you a solid starting point for using Simplify3D, PrusaSlicer & Ultimaker Cura with a BQ Witbox 2, BQ Hephestos 2, FLSUN QQ-S PRO and (soon) FLSUN Prusa i3 C Plus 3D Printers.
+They're not flawless, but they'll give you a solid starting point for using Simplify3D, PrusaSlicer & Ultimaker Cura with a BQ Witbox 2, BQ Hephestos 2, FLSUN QQ-S PRO and (Soon, Valve Time) FLSUN Prusa i3 C Plus 3D Printers.
 <br><br>
 ⚠️**NOTE:** *These profiles are still a work in progress*⚠️
 <br><br><br>
