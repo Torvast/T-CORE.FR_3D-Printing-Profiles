@@ -7,8 +7,8 @@ They're not flawless, but they'll give you a solid starting point for using Simp
 Profiles are divided according to their printer. Available printers are:
 * BQ Witbox 2 with cold bed (currently discontinued due to BQ's status : [BQ is DEAD](https://www.bq.com/))
 * BQ Hephestos 2 with heated bed (currently discontinued due to BQ's status : [BQ is DEAD](https://www.bq.com/))
-* FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon)
-* FLSUN QQ-S PRO with heated bed & the [Foxies CSTL Marlin version](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases/)
+* FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon, Valve time)
+* FLSUN QQ-S PRO with heated bed & the [Foxies CSTL Release Marlin 2.0.9.3 ](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases/)
 
 <br>
 Each printer section offers slicing profiles for Simplify3D & PrusaSlicer initially, and Octoprint & Ultimaker Cura afterward.
