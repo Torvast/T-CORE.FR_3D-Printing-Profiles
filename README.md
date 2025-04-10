@@ -8,7 +8,7 @@ Profiles are divided according to their printer. Available printers are:
 * BQ Witbox 2 with cold bed (currently discontinued due to BQ's status : [BQ is DEAD](https://www.bq.com/))
 * BQ Hephestos 2 with heated bed (currently discontinued due to BQ's status : [BQ is DEAD](https://www.bq.com/))
 * FLSUN Prusa i3 C Plus with heated bed (Profiles coming soon, Valve time)
-* FLSUN QQ-S PRO with heated bed & the [Foxies CSTL Release Marlin 2.0.9.3 ](https://github.com/Foxies-CSTL/Marlin_2.0.x/releases/)
+* FLSUN QQ-S PRO with heated bed & the [Foxies CSTL Release Marlin 2.1.2](https://github.com/Foxies-CSTL/Marlin_2.1.x/releases/tag/1.3.0)
 
 <br>
 Each printer section offers slicing profiles for Simplify3D & PrusaSlicer initially, and Octoprint & Ultimaker Cura afterward.
